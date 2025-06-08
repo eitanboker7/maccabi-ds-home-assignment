@@ -35,8 +35,5 @@ Thanks again for your time.
 
 Looking forward to any feedback or questions.
 
-Eitan
-Looking forward to any feedback or questions.
-
 Best regards,  
 Eitan
