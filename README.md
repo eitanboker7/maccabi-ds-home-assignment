@@ -31,7 +31,8 @@ A list of Hebrew stop words used during clinical text preprocessing.
 
 ---
 
-Thanks again for your time!  
+Thanks again for your time. 
+
 Looking forward to any feedback or questions.
 
 Eitan
